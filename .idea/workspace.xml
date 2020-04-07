@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15484927-7768-496c-9336-47542ad44b00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L01/src/main/java/algorithms/IterativeAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L01/src/main/java/algorithms/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L01/src/main/java/algorithms/RecursiveAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L01/src/test/java/algorithms/IterativeAlgorithmsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L01/src/test/java/algorithms/MultiplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L01/src/test/java/algorithms/RecursiveAlgorithmsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L02/src/main/java/algorithms/Iterable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L02/src/main/java/algorithms/array/ArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L02/src/main/java/algorithms/decorator/SkippingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L02/src/main/java/algorithms/iterable/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L02/src/main/java/algorithms/iterable/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L02/src/test/java/algorithms/array/ArrayIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L02/src/test/java/algorithms/decorator/SkippingIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L03/src/main/java/algorithms/list/IndexOutOfBoundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L03/src/main/java/algorithms/list/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L03/src/main/java/algorithms/list/array/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L03/src/main/java/algorithms/list/linked/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L03/src/test/java/algorithms/list/array/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L04/src/main/java/algorithms/queue/BlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L04/src/main/java/algorithms/queue/EmptyQueueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L04/src/main/java/algorithms/queue/ListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L04/src/main/java/algorithms/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L04/src/test/java/algorithms/queue/AbstractFifoQueueTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L04/src/test/java/algorithms/queue/list/ListFifoQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L05/src/main/java/algorithms/stack/EmptyStackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L05/src/main/java/algorithms/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L05/src/main/java/algorithms/stack/list/ListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L05/src/test/java/algorithms/queue/AbstractFifoQueueTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L05/src/test/java/algorithms/queue/list/ListFifoQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L05/src/test/java/algorithms/stack/AbstractStackTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L05/src/test/java/algorithms/stack/list/ListStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L06/src/main/java/algorithms/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L06/src/main/java/algorithms/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L06/src/main/java/algorithms/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L06/src/main/java/algorithms/sorting/SortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L06/src/main/java/algorithms/sortingcomparable/ComparableSortExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L06/src/main/java/algorithms/sortingcomparable/IntegerComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/P01 L06/src/test/java/algorithms/sorting/AbstractSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L01/src/main/java/algorithms/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L02/src/main/java/algorithms/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L02/src/main/java/algorithms/ReverseIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L04/src/main/java/solution/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L05/src/main/java/solution/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L06/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd01 L06/src/main/java/algorithms/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd02 L02/src/main/java/algorithms/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Algoritmai/Uzd02 L02/src/main/java/algorithms/SingleElementIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baigtiniai tipai/Uzd02_L04/src/MenuAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Baigtiniai tipai/Uzd02_L04/src/MenuApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/example/AverageAgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/example/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/example/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/FilteringAndSlicingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/FindingAndMatchingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/FlatMappingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/MappingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/MiscTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/OptionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/ReductionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Funkcinis programavimas/P02 L03/src/main/java/functionalprogramming/streams/operations/StreamCreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e01/ThreadsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e02/JoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e02/JoinWithTimeoutExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e03/InterruptExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e04/SleepExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e05/ThreadCurrentThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e06/UncaughtExceptionHandlerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e07/IsAliveExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e08/ThreadGroupExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/basic/e08/ThreadGroupUncaughtExceptionHandlerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/complex/lock/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/complex/lock/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/problems/e09/ThreadInterferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/problems/e09/ThreadInterferenceSynchronizedV2Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/signalling/e10/MultipleWaitNotifyAllExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/signalling/e10/MultipleWaitNotifyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/signalling/e10/WaitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L06 P01/src/threading/signalling/e10/WaitWithTimeoutExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java kodo standartas/L09 P01/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java kodo standartas/L09 P01/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java kodo standartas/L09 P01/src/lt/lectures/conventions/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L05/src/main/java/unittesting/mockito/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L05/src/main/java/unittesting/mockito/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L05/src/main/java/unittesting/mockito/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L05/src/main/java/unittesting/simple/NumberUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L05/src/test/java/unittesting/mockito/MockDefaultBehaviorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L05/src/test/java/unittesting/mockito/MockitoMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L05/src/test/java/unittesting/mockito/MockitoSpyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L05/src/test/java/unittesting/simple/NumberUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L07/src/main/java/testing/p01/MailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L07/src/main/java/testing/p01/MailMessageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P01 L07/src/test/java/testing/p01/MatchersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P02 L07/src/main/java/testing/CurrencyExchanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P02 L07/src/main/java/testing/RateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P02 L07/src/test/java/testing/MockitoApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P02 L07/src/test/java/testing/p01/CurrencyExchangerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/P02 L07/src/test/java/testing/p02/CurrencyExchangerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/Uzd02 L05/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/Uzd02 L05/src/main/java/unittesting/DictionarySpamFilterPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/Uzd02 L05/src/main/java/unittesting/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/Uzd02 L05/src/main/java/unittesting/SpamFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/Uzd02 L05/src/main/java/unittesting/SpamFilterPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Modulių testavimas/Uzd03 L05/src/main/java/unittesting/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/dip/correct/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/dip/correct/CopyMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/dip/correct/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/dip/incorrect/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/dip/incorrect/CopyMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/ocp/correct/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/ocp/correct/StrictPasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/srp/user/correct/PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/srp/user/correct/UserDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/srp/user/incorrect/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OOP/L05 P01/src/srp/user/incorrect/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Parametrizuojami tipai/Uzd01_L05/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Parametrizuojami tipai/Uzd02_L05/src/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/P01L03/src/main/java/solid/srp/problem/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd01 L03/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd02 L03/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/Roulette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/SpinResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/bets/Bet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/bets/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/bets/ColorBet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/bets/EvenOddBet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SOLID/Uzd03 L03/src/main/java/roulette/bets/NumberBet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Srautai/Uzd01_L06/data/source/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Srautai/Uzd01_L06/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Srautai/Uzd02_L06/data/source/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Srautai/Uzd02_L06/src/NumbersReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Srautai/Uzd02_L06/src/NumbersSubstitutingWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UML/Uzd01_L03/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../UML/Uzd01_L03/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P01/src/simple/SimpleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P01/src/simple/Trouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P01/src/simple/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P02/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P02/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P02/src/DemoFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P02/src/ProgrammaticLoggingConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P02/src/SpamFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Žurnalizavimas/L08 P02/src/logging.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Sintaksė/.~lock.Kintamieji (skaidrės).odp#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Sintaksė/Kintamieji (skaidrės).odp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Sintaksė/Kintamieji (skaidrės).odp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Sintaksė/Medžiaga/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Sintaksė/Medžiaga/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Sintaksė/Medžiaga/ex1/Literals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Sintaksė/Medžiaga/ex2/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Sintaksė/Medžiaga/ex3/ArraysDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Sintaksė/Medžiaga/ex4/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/.~lock.Įvadas į programavimą java kalba (skaidrės).odp#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/užduotys/praktine_uzduotis_nr_1/Greeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/užduotys/praktine_uzduotis_nr_1/sprendimas.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/užduotys/praktine_uzduotis_nr_1/sprendimas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/užduotys/praktine_uzduotis_nr_2/Echoer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/užduotys/praktine_uzduotis_nr_2/sprendimas.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/užduotys/praktine_uzduotis_nr_2/sprendimas.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/Įvadas į programavimą java kalba (skaidrės).odp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Įvadas i Programavimą Java Kalba/Įvadas į programavimą java kalba (skaidrės).odp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../workspace/lectures-master" beforeDir="false" afterPath="$PROJECT_DIR$/../../../workspace/lectures-master" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="973">
+              <caret line="385" column="23" selection-start-line="385" selection-start-column="23" selection-end-line="385" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/Scheduler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="420">
+                <caret line="21" selection-start-line="21" selection-end-line="22" selection-end-column="45" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/Application.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1340" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Uzd01 L04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uzd01 L04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Uzd01 L04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uzd01 L04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Uzd01 L04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uzd01 L04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Uzd01 L04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uzd01 L04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Uzd01 L04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uzd01 L04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreading" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546079898015" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/multithreading" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreading.Application" />
+      <module name="uzd01-l04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15484927-7768-496c-9336-47542ad44b00" name="Default Changelist" comment="" />
+      <created>1546078828304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546078828304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1340" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1475279" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42148086" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="973">
+          <caret line="385" column="23" selection-start-line="385" selection-start-column="23" selection-end-line="385" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/Scheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="21" selection-start-line="21" selection-end-line="22" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
